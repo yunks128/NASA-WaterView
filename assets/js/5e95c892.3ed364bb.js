@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknasa_water_view=self.webpackChunknasa_water_view||[]).push([[9647],{8122:(e,a,s)=>{s.r(a),s.d(a,{default:()=>i});s(6540);var r=s(4164),n=s(1082),t=s(204),u=s(2831),c=s(1410),w=s(4848);function i(e){return(0,w.jsx)(n.e3,{className:(0,r.A)(t.G.wrapper.docsPages),children:(0,w.jsx)(c.A,{children:(0,u.v)(e.route.routes)})})}}}]);
