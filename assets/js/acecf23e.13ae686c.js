@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknasa_water_view=self.webpackChunknasa_water_view||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/NASA-WaterView/blog","blogTitle":"Blog","authorsListPath":"/NASA-WaterView/blog/authors"}')}}]);
