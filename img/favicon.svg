@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1E3D59"/>
+  
+  <!-- Water drop shape -->
+  <path d="M16 4
+           C16 4 8 14 8 19
+           C8 23.4183 11.5817 27 16 27
+           C20.4183 27 24 23.4183 24 19
+           C24 14 16 4 16 4Z" 
+        fill="#4FC3F7"/>
+  
+  <!-- Orbital ring -->
+  <path d="M16 7
+           C16 7 10 15 10 19
+           C10 22.3137 12.6863 25 16 25
+           C19.3137 25 22 22.3137 22 19
+           C22 15 16 7 16 7Z"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="1"
+        stroke-opacity="0.3"/>
+  
+  <!-- Center dot -->
+  <circle cx="16" cy="19" r="2" fill="#FFFFFF"/>
+</svg>
