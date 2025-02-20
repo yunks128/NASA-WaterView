@@ -1,5 +1,3 @@
-## **Installation**
-
 ### **Prerequisites**
 - Node.js & Yarn
 - Git
